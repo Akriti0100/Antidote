@@ -25,7 +25,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#ml-models-used">ML Models</a> •
   <a href="#project-scope">Project Scope</a> •
-  <a href="#i/o-screenshots">I/O Screenshots</a> •
+  <a href="#input-output-screenshots">I/O Screenshots</a> •
   <a href="#methodology-flowchart">Methodology Flowchart</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a>
@@ -99,9 +99,11 @@
 
 <div align="justify">
  
-## I/O Screenshots
+## Input-Output Screenshots
  
 ![screenshot](https://github.com/Akriti0100/Antidote/blob/main/Users/static/Users/Screenshots.gif)
+  
+For details, you may also refer the `Input - Output Screenshots` </a> folder.
 
 </div>
 
