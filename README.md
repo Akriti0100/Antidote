@@ -22,12 +22,12 @@
 </div>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#ml-models-used">ML Models</a> •
-  <a href="#project-scope">Project Scope</a> •
-  <a href="#i/o-screenshots">I/O Screenshots</a> •
-  <a href="#methodology-flowchart">Methodology Flowchart</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#key-features">Key Features</a> â€¢
+  <a href="#ml-models-used">ML Models</a> â€¢
+  <a href="#project-scope">Project Scope</a> â€¢
+  <a href="#i/o-screenshots">I/O Screenshots</a> â€¢
+  <a href="#methodology-flowchart">Methodology Flowchart</a> â€¢
+  <a href="#how-to-use">How To Use</a> â€¢
   <a href="#license">License</a>
 </p>
 
@@ -39,14 +39,14 @@
   - The users need to create an account on the portal before they can start accessing the functionalities. 
   - After user logins, he/she will be assigned a token for the entire session to make sure that he/she is authenticated.
 * Edit profile 
-  - The patients and the doctors can edit the information given at the time of registration by navigating to the ‘Edit profile’ tab and saving the changes which updates the information stored in the database. 
+  - The patients and the doctors can edit the information given at the time of registration by navigating to the â€˜Edit profileâ€™ tab and saving the changes which updates the information stored in the database. 
 * Disease prediction and Doctor suggestion
   - This feature will help the patient predict the disease he/she is likely to suffer from. A list of symptoms is provided on the screen where the person is supposed to select the symptoms, he/she has witnessed recently. 
   - These symptoms act as an input to the models followed by the predicted disease being displayed. 
   - The patient can search for the concerned doctor within our database or any other doctor based on their location.
 * Uploading medical reports
   - Patients can keep a track of their medical history by uploading their reports along with the details of previous appointments which can be accessed anytime. This also provides an added benefit of forwarding the reports to the doctor if requested. 
-* View active patient’s details 
+* View active patientâ€™s details 
   - The doctor after logging in would be able to see a list of patients who have requested an appointment and the ones he/she is currently attending. 
 * Appointment Confirmation 
   - The doctor to whom the patient sends the request can set up an appointment with him/her for further consultation and diagnosis if he/she feels the need for the same. 
@@ -99,9 +99,25 @@
 
 <div align="justify">
  
+## I/O Screenshots
+ 
+![screenshot](https://github.com/Akriti0100/Antidote/blob/main/Users/static/Users/Screenshots.gif)
+
+</div>
+
+<div align="justify">
+ 
+## Methodology Flowchart
+ 
+<img src="https://github.com/Akriti0100/Antidote/blob/main/Users/static/Users/Flowchart.jpg" alt="Flowchart">
+
+</div>
+
+<div align="justify">
+ 
 ## How To Use
 
-To clone and run this application, you’ll need `Git` and `Django` installed on your computer. <br>
+To clone and run this application, youâ€™ll need `Git` and `Django` installed on your computer. <br>
 From your command line:
 
 ```
@@ -126,22 +142,6 @@ $ python manage.py runserver
 * For doctor
   - Email id: bomepis203@tst999.com
   - Password: testuser0102
-
-</div>
-
-<div align="justify">
- 
-## I/O Screenshots
- 
-<!-- ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif) -->
-
-</div>
-
-<div align="justify">
- 
-## Methodology Flowchart
- 
-<!-- <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"> -->
 
 </div>
 
