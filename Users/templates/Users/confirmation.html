@@ -1,0 +1,7 @@
+{% extends "Users/layout.html" %}
+
+{% block body %}
+    <h2 class="heading">{{message}} at {{ u.email }}</h2> 
+    <br><br>
+    <p align="center"> <a class="nav-link" href="{% url 'login' %}">LOG INTO YOUR ACCOUNT</a> </p>
+{% endblock %}
